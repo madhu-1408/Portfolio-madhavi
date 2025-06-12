@@ -47,6 +47,10 @@ export function PostGrid() {
 
 const workExperience = [
   {
+    title: "Software Engineer",
+    companyName: "Singular Analysts Inc", 
+    date: "Mar. 2025 - Present",
+  },{
     title: "Software and Network Engineering Intern",
     companyName: "Springer Capital", 
     date: "Sept. 2024 - Jan. 2025",
